@@ -1,1 +1,1 @@
-alert(origin)
+<script>alert(origin)</script>
