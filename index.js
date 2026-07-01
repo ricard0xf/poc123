@@ -1,1 +1,2 @@
-alert(origin)
+alert(document.domain);
+alert(document.cookie);
